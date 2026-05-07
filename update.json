@@ -2,7 +2,7 @@
   {
     "name": "Freemium External",
     "type": "external",
-    "download_url": "https://github.com/username/repo/releases/download/v1.0/powerpoint.exe",
+    "download_url": "https://github.com/LycanLD/freemiumcs/releases/download/v1.0/powerpoint.exe",
     "icon": "https://example.com/icon.png",
     "banner": "https://example.com/banner.png",
     "version": "1.0"
@@ -10,7 +10,7 @@
   {
     "name": "Freemium Internal",
     "type": "internal",
-    "download_url": "https://github.com/username/repo/releases/download/v1.0/x64l3git.dll",
+    "download_url": "https://github.com/LycanLD/freemiumcs/releases/download/v1.0/x64l3git.dll",
     "icon": "https://example.com/icon.png",
     "banner": "https://example.com/banner.png",
     "version": "1.0"
