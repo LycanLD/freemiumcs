@@ -1,0 +1,4 @@
+[
+  {"name": "Freemium External", "type": "external", "download_url": "url", "version": "1.0"},
+  {"name": "Freemium Internal", "type": "internal", "download_url": "url", "version": "1.0"}
+]
