@@ -1,4 +1,4 @@
 [
-  {"name": "Freemium External", "type": "external", "download_url": "url", "version": "1.0"},
-  {"name": "Freemium Internal", "type": "internal", "download_url": "url", "version": "1.0"}
+  {"name": "Freemium External", "type": "external", "download_url": "https://github.com/LycanLD/freemiumcs/releases/download/v1.0/powerpoint.exe", "version": "1.0"},
+  {"name": "Freemium Internal", "type": "internal", "download_url": "https://github.com/LycanLD/freemiumcs/releases/download/v1.0/x64l3git.dll", "version": "1.0"}
 ]
